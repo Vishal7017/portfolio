@@ -4,7 +4,7 @@
 
 ## Education						       		
 - M.S., Computer Science | Syracuse Univeristy, Syracuse (_September 2023_ - Present)	 			        		
-- B.E., Information Technology | Syracuse Univeristy, Syracuse (_September 2023_ - Present)	 		        		
+- B.E., Information Tech. | Syracuse Univeristy, Syracuse (_September 2023_ - Present)	 		        		
 
 ## Work Experience
 **Application Development Analyst @ Accenture (_June 2022 - September 2023_)**
