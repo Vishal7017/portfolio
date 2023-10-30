@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education						       		
-- M.S., Computer Science | Syracuse Univeristy, Syracuse (_Aug 2023_ - _Present)	 			        		
-- B.E., Information Technology | Savitribai Phule Pune University SPPU (_May 2020_)
+- M.S., Computer Science | Syracuse Univeristy, Syracuse (_Aug 2023_ - Present)	 			        		
+- B.E., Information Technology |_Savitribai Phule Pune University, Pune (_May 2020_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
