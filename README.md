@@ -2,10 +2,9 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.S., Computer Science | Syracuse Univeristy, Syracuse (_Aug 2023_ - _Present)	 			        		
+- B.E., Information Technology | Savitribai Phule Pune University SPPU (_May 2020_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
