@@ -1,10 +1,10 @@
-# Data Scientist
+# Software Developer
 
 #### Technical Skills: Python, PostgreSQL, AWS, Snowflake, MATLAB, C++, Docker, React
 
 ## Education						       		
 - M.S., Computer Science | Syracuse Univeristy, Syracuse (_September 2023_ - Present)	 			        		
-- B.E., Information Technology | Savitribai Phule Pune Univeristy, Pune (_May 2020_)	 			        		
+- M.S., Computer Science | Syracuse Univeristy, Syracuse (_September 2023_ - Present)	 		        		
 
 ## Work Experience
 **Application Development Analyst @ Accenture (_June 2022 - September 2023_)**
