@@ -3,23 +3,28 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education						       		
-- M.S., Computer Science | Syracuse Univeristy, Syracuse (_Aug 2023_ - Present)	 			        		
-- B.E., Information Technology |_Savitribai Phule Pune University, Pune (_May 2020_)
+- M.S., Computer Science | Syracuse Univeristy, Syracuse (_September 2023_ - Present)	 			        		
+- B.E., Information Technology | Savitribai Phule Pune Univeristy, Pune (_May 2020_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Application Development Analyst @ Accenture (_June 2022 - September 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Application Development Associate @ Accenture (_January 2021 - May 2022_)**
+- Developed scalable and containerized micro-services to consume the real-time data from solace queues for Japanese division. Extended the services provided in India to Japan that gave average revenue of $10000 per application.
+- Created and implemented Machine Learning pipelines using swift communication skills with Japanese Client increasing program reliability and decreasing system downtime.
+
+**Software Development Intern @ United Fashion (_April 2018 - June 2018_)**
+- Developed Payment processing and maintained stock to order flow. Used Performance matrix to monitor clicks and purchase process. Implemented On-premises to Cloud Migration in AWS Cloud.
+- Modified programs, primarily using Python and React to maintain real-time MongoDB database.
+- Implemented purchase to order flow payment processing system with Paytm and United Payment Interface.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Weather Data Visualization and Forecast with Serverless Computing
+[Publication](https://www.researchgate.net/publication/344336400_INTERNATIONAL_RESEARCH_JOURNAL_OF_ENGINEERING_AND_TECHNOLOGY_IRJET_Weather_Data_Forecast_and_Analytics)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed Weather Data Visualization and Forecasting web application using AWS Cloud Lambda and S3 storage, to better utilization of computation and resources. Implemented SVM and Carto for Data Processing to extract API data to Maps, demonstrated project use case to local Farmers to plan their harvest efficiently. Published Research Paper in reputed Journal and represented out finding and experiments in seminars.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
