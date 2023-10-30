@@ -27,7 +27,7 @@
 
 Developed Weather Data Visualization and Forecasting web application using AWS Cloud Lambda and S3 storage, to better utilization of computation and resources. Implemented SVM and Carto for Data Processing to extract API data to Maps, demonstrated project use case to local Farmers to plan their harvest efficiently. Published Research Paper in reputed Journal and represented out finding and experiments in seminars.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/weather.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
