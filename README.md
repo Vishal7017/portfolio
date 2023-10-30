@@ -22,19 +22,13 @@
 - Implemented purchase to order flow payment processing system with Paytm and United Payment Interface.
 
 ## Projects
-### Weather Data Visualization and Forecast with Serverless Computing
+### Weather Data Visualization and Forecast with AWS Serverless Computing
 [Publication](https://www.researchgate.net/publication/344336400_INTERNATIONAL_RESEARCH_JOURNAL_OF_ENGINEERING_AND_TECHNOLOGY_IRJET_Weather_Data_Forecast_and_Analytics)
 
 Developed Weather Data Visualization and Forecasting web application using AWS Cloud Lambda and S3 storage, to better utilization of computation and resources. Implemented SVM and Carto for Data Processing to extract API data to Maps, demonstrated project use case to local Farmers to plan their harvest efficiently. Published Research Paper in reputed Journal and represented out finding and experiments in seminars.
 
-![EEG Band Discovery](/assets/img/weather.png)
+![Weather Visualization](/assets/img/weather.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Tools and Technologies
 - Programming Languages - Python, C++, C, Java, Javascript, Go, Swift
@@ -48,7 +42,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Organized and mentored more than 150+ students in Cloud Developer Student Club in university.(_April 2019_)
 - Coordinator and Problem setter for the annual technical/coding fest ‘Sinhgad Karandak 2017‘of my college.(_November 2017_)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Vishal Wavhale Linkedin](https://www.linkedin.com/in/vishalwavhale)
 
 ## Certifications
 - Microsoft Azure AI-900 and AZ-900 certification
@@ -57,4 +51,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Google Qwiklabs Quest Champion for Oct 2019, Google cloud training
 - RESQ Leopard Buddy 2020, taking care of leopard cubs for 4 months
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science Blog](https://medium.com/@vishalden493)
